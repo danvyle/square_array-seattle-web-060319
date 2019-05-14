@@ -1,4 +1,4 @@
 def square_array(array)
-  each.do 
+  array.each ** 2
   
 end
